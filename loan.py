@@ -18,7 +18,7 @@ from sklearn.naive_bayes import GaussianNB
 from termcolor import colored
 
 # Load dataset
-file_path = r'D:\loanModel\train_u6lujuX_CVtuZ9i.csv'
+file_path = r'train_u6lujuX_CVtuZ9i.csv'
 loan_data = pd.read_csv(file_path)
 
 # Data Cleaning and Pre-Processing
